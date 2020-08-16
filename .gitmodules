@@ -1,3 +1,6 @@
 [submodule "vimfiles/pack/vendor/start/paredit.vim"]
 	path = vimfiles/pack/vendor/start/paredit.vim
 	url = https://github.com/vim-scripts/paredit.vim.git
+[submodule "vimfiles/pack/vendor/start/fireplace.vim"]
+	path = vimfiles/pack/vendor/start/fireplace.vim
+	url = https://tpope.io/vim/fireplace.git
